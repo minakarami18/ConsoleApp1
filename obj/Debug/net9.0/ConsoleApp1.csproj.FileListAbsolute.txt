@@ -1,0 +1,14 @@
+/Users/minakaraminejad/Code/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/Users/minakaraminejad/Code/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/minakaraminejad/Code/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/minakaraminejad/Code/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/minakaraminejad/Code/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/minakaraminejad/Code/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
