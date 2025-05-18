@@ -4,7 +4,8 @@ public class Program
 {
     public static void Main()
     {
-        console.writline("m");
+        Console.WriteLine("mهدش ناشقث");
+
 
     }
 }
