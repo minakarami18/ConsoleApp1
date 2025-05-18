@@ -4,7 +4,7 @@ public class Program
 {
     public static void Main()
     {
-        console.writline("m");
+        console.writline("مینا خره");
 
     }
 }
