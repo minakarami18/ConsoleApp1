@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Dobit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\obj\\",
+        "projectPath": "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj",
+        "packagesPath": "/Users/minakaraminejad/.nuget/packages/",
+        "outputPath": "/Users/minakaraminejad/ConsoleApp1-3/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dobit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/minakaraminejad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,18 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-              "version": "[9.0.200, 9.0.200]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

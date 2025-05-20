@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lhrKc5GQdu0=",
+  "dgSpecHash": "aYaQhz97IIE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dobit\\Source\\Repos\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dobit\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
