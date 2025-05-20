@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj": {}
+    "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj": {
+    "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj",
+        "projectUniqueName": "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj",
+        "projectPath": "/Users/minakaraminejad/ConsoleApp1-3/ConsoleApp1.csproj",
         "packagesPath": "/Users/minakaraminejad/.nuget/packages/",
-        "outputPath": "/Users/minakaraminejad/ConsoleApp1-1/obj/",
+        "outputPath": "/Users/minakaraminejad/ConsoleApp1-3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/minakaraminejad/.nuget/NuGet/NuGet.Config"
