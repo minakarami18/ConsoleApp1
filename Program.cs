@@ -186,7 +186,7 @@ namespace Csharp
     {
         static void Main()
         {
-            ResDormitory RD=new ResDormitory("qq",11,"aa","kk", "mdi",)
+            ResDormitory RD = new ResDormitory("qq", 11, "aa", "kk", "mdi",)
             List<Dormitory> dormitories = new List<Dormitory>(1000);
             dormitories.Add("sara", "aa", 100, RD);
 
