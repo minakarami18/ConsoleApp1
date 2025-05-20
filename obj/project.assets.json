@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kavoosh\\.nuget\\packages\\": {}
+    "/Users/minakaraminejad/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kavoosh\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Kavoosh\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Kavoosh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kavoosh\\ConsoleApp1\\obj\\",
+      "projectPath": "/Users/minakaraminejad/ConsoleApp1-1/ConsoleApp1.csproj",
+      "packagesPath": "/Users/minakaraminejad/.nuget/packages/",
+      "outputPath": "/Users/minakaraminejad/ConsoleApp1-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kavoosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/minakaraminejad/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
