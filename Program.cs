@@ -47,7 +47,7 @@ namespace Csharp
         {   
             if(!isFull)
             {
-                Dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
+                dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
                 count++;
             }
             
