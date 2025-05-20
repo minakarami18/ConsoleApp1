@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 using System.Runtime.Intrinsics.Arm;
 using System.Collections.Generic;
 using Csharp;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Csharp
 {
@@ -43,16 +44,16 @@ namespace Csharp
             }
         }
 
-        public void addDormitory(string _nameD, string _address, int _capacity, ResDormitory _RD)
-        {   
-            if(!isFull)
-            {
-                Dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
-                count++;
-            }
+        // public void addDormitory(string _nameD, string _address, int _capacity, ResDormitory _RD)
+        // {   
+        //     if(!isFull)
+        //     {
+        //         dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
+        //         count++;
+        //     }
             
 
-        }
+        // }
         public void delDormitory(string _name)
         {
             if(!isEmpty)
@@ -185,7 +186,9 @@ namespace Csharp
     {
         static void Main()
         {
+            ResDormitory RD=new ResDormitory("qq",11,"aa","kk", "mdi",)
             List<Dormitory> dormitories = new List<Dormitory>(1000);
+            dormitories.Add("sara", "aa", 100, RD);
 
             Console.WriteLine("menu : <Dormitory management> <Block management> <People management> <Property management> <Reporting>");
             Console.WriteLine("please select one option");
