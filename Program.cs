@@ -59,7 +59,7 @@ namespace Csharp
             {
                 for(int i = 0; i < count; i++)
                 {
-                    
+                    dormitories[]
                 }
             }
         }
