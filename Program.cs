@@ -59,7 +59,10 @@ namespace Csharp
             {
                 for(int i = 0; i < count; i++)
                 {
-                    dormitories[]
+                    if(dormitories[i].nameD == _nameD)
+                    {
+                        dormitories.RemoveAt(count);
+                    }
                 }
             }
         }
