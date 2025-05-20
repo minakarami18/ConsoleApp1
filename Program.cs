@@ -186,7 +186,6 @@ namespace Csharp
         static void Main()
         {
             List<Dormitory> dormitories = new List<Dormitory>(1000);
-            ; ;
 
             Console.WriteLine("menu : <Dormitory management> <Block management> <People management> <Property management> <Reporting>");
             Console.WriteLine("please select one option");
