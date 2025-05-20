@@ -190,6 +190,7 @@ namespace Csharp
 
             Console.WriteLine("menu : <Dormitory management> <Block management> <People management> <Property management> <Reporting>");
             Console.WriteLine("please select one option");
+            Console.WriteLine("mina");
         }
     }
 }
