@@ -44,29 +44,29 @@ namespace Csharp
             }
         }
 
-        public void addDormitory(string _nameD, string _address, int _capacity, ResDormitory _RD)
-        {   
-            if(!isFull)
-            {
-                Dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
-                count++;
-            }
+        //public void addDormitory(string _nameD, string _address, int _capacity, ResDormitory _RD)
+        //{   
+        //    if(!isFull)
+        //    {
+        //        Dormitories[count] = new Dormitory(_nameD, _address, _capacity, _RD);
+        //        count++;
+        //    }
             
 
-        }
-        public void delDormitory(string _name)
-        {
-            if(!isEmpty)
-            {
-                for(int i = 0; i < count; i++)
-                {
-                    if(dormitories[i].nameD == _nameD)
-                    {
-                        dormitories.RemoveAt(count);
-                    }
-                }
-            }
-        }
+        //}
+        //public void delDormitory(string _name)
+        //{
+        //    if(!isEmpty)
+        //    {
+        //        for(int i = 0; i < count; i++)
+        //        {
+        //            if(dormitories[i].nameD == _nameD)
+        //            {
+        //                dormitories.RemoveAt(count);
+        //            }
+        //        }
+        //    }
+        //}
 
 
     }
@@ -186,7 +186,7 @@ namespace Csharp
     {
         static void Main()
         {
-            List<Dormitory> dormitories = new List<Dormitory>(1000);
+            List<Dormitory> dormitories = new List<Dormitory>(100);
 
             Console.WriteLine("menu : <Dormitory management> <Block management> <People management> <Property management> <Reporting>");
             Console.WriteLine("please select one option");
